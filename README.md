@@ -13,16 +13,15 @@ Agents with a human in the loop · ML pipelines · the backends that serve them
 ![Live](https://img.shields.io/badge/LIVE-1%20deployed%20app-1A7F45?style=for-the-badge&labelColor=16191C)
 ![Graduating](https://img.shields.io/badge/GRADUATING-2027-B06A2C?style=for-the-badge&labelColor=16191C)
 
+<br>
+
+[![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-View%20PDF-16191C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/VIAMRSH123/VIAMRSH123/blob/main/Viamrsh-Buyyani-Resume.pdf)
+
 </div>
 
 <br>
 
 > Previously an AI & Logistics intern at **Gulf Warehousing Company**, Doha — warehouse operations dashboards and AI-assisted workflow documentation.
-
-<!-- RESUME: paste a link (Drive, personal site, etc.) between the parentheses,
-     then delete this line and the two comment markers around it.
-**[Resume](PASTE_LINK_HERE)**
--->
 
 ### Core technologies
 
